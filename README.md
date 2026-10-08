@@ -4,7 +4,7 @@
 - 🤖 **robotlab** — [Live demo](https://robotlab-one.vercel.app/?lang=en) · React / Three.js / Rapier / React Flow / TypeScript — built solo in two weeks
 
 ### Shipped
-- 🏥 **HyodoAI** — AI medical-information app for nursing-hospital families · iOS / Android · React Native (Expo), Supabase, [hyodoai.com]
+- 🏥 **HyodoAI** — AI medical-information app for nursing-hospital families · iOS / Android · React Native (Expo), Supabase · (hyodoai.com)
 - ✨ **Cosmos Arcana** — live 5-language web product · [cosmosarcana.com](https://cosmosarcana.com)
 
 ### How I work
