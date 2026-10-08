@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eunsu%20Kim&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%2C%20AI%20Tree%20Inc.%20%C2%B7%20Building%20robotlab&descSize=18&descAlignY=58&animation=fadeIn" />
-</div>
-
 **Browser robotics lab for first-time builders.** Snap real parts onto a chassis, wire the nodes the parts provide, watch a physics sim drive your robot.
 
 ### Now
